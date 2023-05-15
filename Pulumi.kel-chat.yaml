@@ -1,0 +1,6 @@
+encryptionsalt: v1:CUANtbeVlks=:v1:8DoRnIP4dwy/3g6q:0BTwiZVZHAr0blcIwVbpG+xfuyMvIA==
+config:
+  aws:region: eu-west-1
+  kel-chat:ecrImageMaxDays: "90"
+  kel-chat:ecrImageMaxImages: "5"
+  kel-chat:name: kel-chat
